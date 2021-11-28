@@ -41,7 +41,7 @@ THEN I am again presented with current and future conditions for that city
 
 | Project                            | Day-Planner URL                                       |
 |------------------------------------|-------------------------------------------------------|
-| Weather-Dashboard                        | <>        |
+| Weather-Dashboard                  | <https://allan-ngwenya.github.io/Weather-Dashboard/>  |
 
 
 ## Contributers
